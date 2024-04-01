@@ -1,6 +1,6 @@
-# Design Pro - E-commerce Dress Shop
+# E-commerce Website - Design Pro
 
-Welcome to Design Pro, your go-to destination for the latest fashion trends! Design Pro is an e-commerce website dedicated to offering a curated selection of stylish dresses for every occasion.
+Welcome to our E-Commerce website respiratory , Design Pro is an e-commerce website dedicated to offering a curated selection of stylish dresses for every occasion.This project is built by using HTML,CSS and JAVASCRIPT. It is a Responsive website which gives amazing user experience both in desktop and mobile views.
 
 ## Overview
 
@@ -24,24 +24,15 @@ To run Design Pro locally on your machine, follow these steps:
 
    
    git clone https://github.com/your-username/design-pro.git
-   
 
-2. Navigate to the project directory:
-
-   
-   cd design-pro
-   
-
-3. Open the index.html file in your preferred web browser.
+2. Open the index.html file in your preferred web browser.
 
 ## Usage
 
-To start using Design Pro:
+To start using our website:
 
-1. Visit our website at [www.designpro.com](https://www.designpro.com) in your web browser.
+1. Explore our catalog by browsing through different categories or using the search functionality to find specific dresses.
 
-2. Explore our catalog by browsing through different categories or using the search functionality to find specific dresses.
-
-3. Click on a dress to view more details, and use the navigation buttons to return to the catalog or continue shopping.
+2. Usw search functionality to explore more you wanted
 
 4. Enjoy your shopping experience and discover the latest fashion trends!
